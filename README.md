@@ -1,2 +1,2 @@
 # Weather-GUI
-A GUI in Python made with Tkinter
+A GUI weather app in Python made with Tkinter.
